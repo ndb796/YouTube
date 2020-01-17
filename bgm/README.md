@@ -3,7 +3,7 @@
 * 본 폴더의 음악들은 방송할 때 Background Music으로 사용할 수 있는 음악들입니다.
 * 설명란에 아래와 같이 저작권자를 기입해야 Copyright Issue 없이 사용할 수 있습니다.
 
-[ Music List in Streaming ]
+#### Music List in Streaming
 
 Name: Old Bossa
 Artist: Twin Musicom
