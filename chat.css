@@ -1,0 +1,105 @@
+/*Chatroom background color*/
+body, .live-chat-widget .comment:nth-of-type(n),.live-chat-page,#live-comments-section,
+#live-comments-section #comments-scroller-container
+{
+  background: transparent !important;
+}
+
+/*Name color*/
+.live-chat-widget .comment .author a{
+  color: lightblue;
+  display: inline;
+}
+
+/*Comment color*/
+#comments-view .comment-text a,
+.live-chat-widget .comment-text,
+.author {
+  color: white;
+  display: inline;
+}
+
+.live-chat-widget .comment .author a:after {
+	margin-left:3px;
+    content: " :";
+}
+
+.yt-uix-menu-container, .yt-uix-menu + .byline{
+  margin-right:0;
+}
+
+/*Owner comments*/
+.live-chat-widget .comment.author-is-owner a,
+.live-chat-widget .comment.author-is-owner .byline{
+  color: lightcoral;
+  display: inline;
+}
+
+/*Moderator comments*/
+.live-chat-widget .comment.author-is-moderator a,
+.live-chat-widget .comment.author-is-moderator .byline{
+  color: Lime;
+  display:inline;
+}
+
+/*Removed message color*/
+em{
+  font-size: 15px !important;
+  color: LightGoldenRodYellow;
+}
+
+/*Moderator icon offset*/
+.live-chat-widget .comment.author-is-owner .yt-user-photo,
+.live-chat-widget .comment.author-is-moderator .yt-user-photo
+ {
+    margin-top:5px;
+    margin-left:4px;
+}
+
+/*Icon offset*/
+.yt-user-photo {
+  margin-top:9px
+}
+
+
+/*Bad language decoration*/
+.comment .badwords-matched {
+  text-shadow: none;
+  color: transparent;
+}
+
+/*Text style*/
+.live-chat-widget .comment-text, .author, em
+{
+  font-size: 25px;
+  line-height: 40px !important;
+  font-family: Adobe Heiti Std, Microsoft JhengHei;
+  word-break: break-word;
+  text-shadow: 
+1px 3px 0px #000, 2px 2px 0px #000, 3px 1px 0px #000, 3px 0px 0px #000, 3px -1px 0px #000, 2px -2px 0px #000, 1px -3px 0px #000,
+-1px 3px 0px #000, -2px 2px 0px #000, -3px 1px 0px #000, -3px 0px 0px #000, -3px -1px 0px #000, -2px -2px 0px #000, -1px -3px 0px #000,
+3px 1px 0px #000, 2px 2px 0px #000, 1px 3px 0px #000, 0px 3px 0px #000, -1px 3px 0px #000, -2px 2px 0px #000, -3px 1px 0px #000, 
+3px -1px 0px #000, 2px -2px 0px #000, 1px -3px 0px #000, 0px -3px 0px #000, -1px -3px 0px #000, -2px -2px 0px #000, -3px -1px 0px #000;
+}
+
+/*Chatroom isolation*/
+#live-comments-controls, .accent-bar, .metadata .author, .gaming-promo
+{
+  display: none  !important;
+}
+
+/*Lock chatroom to top*/
+#content, #watch7-sidebar {
+  top: 0;
+}
+
+/*Fix Padding*/
+.content, .comment {
+  padding: 0!important;
+}
+
+/*Hide scrollbar*/
+.live-chat-widget #comments-scroller{
+  overflow:hidden;
+  border:none;
+}
