@@ -5,50 +5,50 @@
 
 ### Music List in Streaming
 
-Name: Old Bossa
-Artist: Twin Musicom
+Name: Old Bossa<br/>
+Artist: Twin Musicom<br/>
 Reference: http://www.twinmusicom.org/
 
-Name: Talky Beat
-Artist: Twin Musicom
+Name: Talky Beat<br/>
+Artist: Twin Musicom<br/>
 Reference: http://www.twinmusicom.org/
 
-Name: Rollercoaster
-Artist: Tobu
+Name: Rollercoaster<br/>
+Artist: Tobu<br/>
 Reference: http://youtube.com/tobuofficial/
 
-Name: Nostalgia
-Artist: Tobu
+Name: Nostalgia<br/>
+Artist: Tobu<br/>
 Reference: http://youtube.com/tobuofficial/
 
-Name: Foxistance
-Artist: DayFox
+Name: Foxistance<br/>
+Artist: DayFox<br/>
 Reference: https://soundcloud.com/dayfox/
 
-Name: Nanz (Give Me Love)
-Artist:  HAR5H X HASCH
+Name: Nanz (Give Me Love)<br/>
+Artist:  HAR5H X HASCH<br/>
 Reference: https://soundcloud.com/har5hmusic/
 
-Name: Adventure
-Artist: Jantrax
+Name: Adventure<br/>
+Artist: Jantrax<br/>
 Reference: https://soundcloud.com/jantr4x/
 
-Name: Digitally Speaking
-Artist: Ikson
+Name: Digitally Speaking<br/>
+Artist: Ikson<br/>
 Reference: https://soundcloud.com/ikson/
 
-Name: Popsicle
-Artist: KODOMOi
+Name: Popsicle<br/>
+Artist: KODOMOi<br/>
 Reference: http://soundcloud.com/KODOMOiMusic/
 
-Name: Jazz Piano Bar
-Artist: Doug Maxwel
+Name: Jazz Piano Bar<br/>
+Artist: Doug Maxwel<br/>
 Reference: https://youtu.be/hMbf-VPD3ck/
 
-Name: Show me the way
-Artist: Vendredi
+Name: Show me the way<br/>
+Artist: Vendredi<br/>
 Reference: https://soundcloud.com/vendrediduo/
 
-Name: Bet On It
-Artist: Silent Partner
+Name: Bet On It<br/>
+Artist: Silent Partner<br/>
 Reference: https://www.youtube.com/watch?v=0GtxoefhOvo/
