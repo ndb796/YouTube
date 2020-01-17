@@ -4,7 +4,7 @@
 
 #### 방송용 BGM
 
-* 'bgm' 폴더에 있는 Copyright Free 음악을 이용할 수 있습니다.
+* [bgm](./bgm) 폴더에 있는 Copyright Free 음악을 이용할 수 있습니다.
 
 #### 방송용 Software
 
