@@ -52,3 +52,23 @@ Reference: https://soundcloud.com/vendrediduo/
 Name: Bet On It<br/>
 Artist: Silent Partner<br/>
 Reference: https://www.youtube.com/watch?v=0GtxoefhOvo/
+
+Name: Sonic B Boy<br/>
+Artist: Aries Beats<br/>
+Reference: https://www.youtube.com/channel/UCVz37WOEw1mPyIpx8xPHBmg
+
+Name: Sad 80s Guitar<br/>
+Artist: Aries Beats<br/>
+Reference: https://www.youtube.com/channel/UCVz37WOEw1mPyIpx8xPHBmg
+
+Name: Hope<br/>
+Artist: Aries Beats<br/>
+Reference: https://www.youtube.com/channel/UCVz37WOEw1mPyIpx8xPHBmg
+
+Name: NU DISCO FUNK<br/>
+Artist: Aries Beats<br/>
+Reference: https://www.youtube.com/channel/UCVz37WOEw1mPyIpx8xPHBmg
+
+Name: Training Shoes<br/>
+Artist: Dandillion Jeff<br/>
+Reference: https://www.youtube.com/channel/UCOG2x2npBKvfiRM6ZIhAwmg
